@@ -9,7 +9,8 @@
     <title><?php echo $page_title; ?></title>
  
     <!-- Latest compiled and minified Bootstrap CSS -->
-  
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css">
+
     <!-- our custom CSS -->
     <link rel="stylesheet" href="custom.css" />
   
